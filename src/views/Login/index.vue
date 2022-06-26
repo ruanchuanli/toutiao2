@@ -1,13 +1,12 @@
 <template>
-  <div>
-    <!-- 一级占位符 -->
-    <router-view></router-view>
-  </div>
+<div>
+    login
+</div>
 </template>
 
 <script>
 export default {
-  created () { },
+  created () {},
   data () {
     return {}
   },
@@ -19,10 +18,6 @@ export default {
 }
 </script>
 
-<style scoped>
-.box {
-  width: 50px;
-  height: 50px;
-  background-color: pink;
-}
+<style scoped lang='less'>
+
 </style>
